@@ -29,4 +29,4 @@ jobs:
           CHAOXING_USERNAME: ${{ secrets.CHAOXING_USERNAME }}
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
-        run: python main.py -u "18146711630" -p "hj20080527" -l "267399520"
+        run: python main.py -u "18146713580" -p "1024zyt＃＃" -l "267684255"
